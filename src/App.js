@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React - archana
+          Learn React - Archana - updated changes
         </a>
       </header>
     </div>
